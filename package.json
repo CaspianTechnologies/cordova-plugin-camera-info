@@ -1,11 +1,13 @@
 {
   "name": "cordova-plugin-camera-info",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Camera info plugin",
   "main": "www/CameraInfo.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
-  "license": "ISC"
+  "cordova": {
+    "id": "cordova-plugin-camera-info",
+    "platforms": [
+      "windows"
+    ]
+  }
 }
