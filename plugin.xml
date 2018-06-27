@@ -17,4 +17,14 @@
             <runs />
         </js-module>
     </platform>
+
+    <!-- android -->
+    <platform name="android">
+
+    </platform>
+
+    <!-- ios -->
+    <platform name="ios">
+
+    </platform>
 </plugin>
