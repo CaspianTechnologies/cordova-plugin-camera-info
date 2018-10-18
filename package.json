@@ -1,9 +1,10 @@
 {
   "name": "cordova-plugin-camera-info",
   "version": "0.0.1",
+  "author": "Caspian Technologies PTE. LTD.",
+  "license": "gpl-3.0",
   "description": "Camera info plugin",
   "main": "www/CameraInfo.js",
-  "author": "",
   "cordova": {
     "id": "cordova-plugin-camera-info",
     "platforms": [
